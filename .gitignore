@@ -1,0 +1,14 @@
+# IntelliJ / VS Code
+.idea/
+.vscode/
+*.iml
+out/
+
+# Java compiled files
+*.class
+
+# Build folders
+target/
+
+# OS files
+.DS_Store
