@@ -29,9 +29,6 @@ public class StaticMethod {
       obj1.brand = "Samsung";
       obj1.price = 100000;
       Mobile.name = "SmartPhone";
-
-      Mobile obj2 = new Mobile();
-
       obj1.show();
     }
 }
